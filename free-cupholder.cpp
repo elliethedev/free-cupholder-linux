@@ -7,7 +7,7 @@ int main() {
     int result = std::system("eject"); // Calls the eject command
     
     if (result == 0) {
-        std::cout << "Cupholder created successfully." << std::endl;
+        std::cout << "Cupholder created successfully!" << std::endl;
     } else {
         std::cerr << "\nFailed to start cupholder. Is the 'eject' utility installed?\nhint: Is your CDROM/DVD drive in use?" << std::endl;
     }
