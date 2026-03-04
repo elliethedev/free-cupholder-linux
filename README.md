@@ -1,4 +1,5 @@
 # How to compile on your own
+### Do not actually put cups in your disc tray, it may close and spill all over your computer
 Run the following commands in the terminal
 1. Clone the repository `git clone https://github.com/elliethedev/free-cupholder-linux.git`
 2. go into the directory `cd ./free-cupholder-linux`
