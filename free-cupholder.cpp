@@ -9,7 +9,7 @@ int main() {
     if (result == 0) {
         std::cout << "Cupholder created successfully!" << std::endl;
     } else {
-        std::cerr << "\nFailed to start cupholder. Is the 'eject' utility missing or disabled from util-linux?\nhint: Is your CDROM/DVD drive in use?" << std::endl;
+        std::cerr << "\nFailed to start cupholder. Is the 'eject' utility disabled?\nhint: Is your CDROM/DVD drive in use?" << std::endl;
     }
     
     return 0;
