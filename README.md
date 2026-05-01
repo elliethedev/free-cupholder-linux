@@ -6,3 +6,4 @@ Run the following commands in the terminal
 3. Compile the program with `g++ free-cupholder.cpp -o free-cupholder`
 4. Run `./free-cupholder` and the program should just work!
    - If you receive `Permission denied`, run `chmod +x free-cupholder`
+#### [Download](https://github.com/elliethedev/free-cupholder-linux/releases) here if you just want the executable.
